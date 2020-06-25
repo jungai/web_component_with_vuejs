@@ -2,6 +2,10 @@
   "name": "web-component-with-vue",
   "version": "0.1.0",
   "private": true,
+  "main": "dist/mk-ui.min.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "tailwind": "tailwind build ./src/assets/styles/index.css -c ./tailwind.js -o ./src/assets/css/output.css",
     "serve": "vue-cli-service serve",
