@@ -1,7 +1,6 @@
 {
   "name": "web-component-with-vue",
   "version": "0.1.0",
-  "private": true,
   "main": "dist/mk-ui.min.js",
   "files": [
     "dist"
